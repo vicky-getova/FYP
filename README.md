@@ -1,4 +1,4 @@
-# Advancements in Leukemia Diagnosis using Machine Learning ang Image Processing techniques
+# Advancements in Leukemia Diagnosis using Machine Learning and Image Processing techniques
 Repository for the FYP - ML in Healthcare
 
 Leukemia, in particular Acute Lymphoblastic Leukemia, is a common and fatal disease form that mostly affects adolescents and children. Leukemia treatment choices and patient outcomes needs to be determined based on an accurate and early diagnosis. The present diagnosis procedure entails a number of complicated laboratory tests, which can be costly, time-consuming, and prone to human error. As a result, it is evident that automated diagnosis strategies are needed. One such technique is computer-aided microscopic morphological examination employing machine learning (ML) and image processing techniques.
